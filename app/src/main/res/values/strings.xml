@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">playlist-maker-android-MagomedovaAlina</string>
+
+    <string name="main_title">Playlist Maker</string>
+    <string name="main_search">Поиск</string>
+    <string name="main_playlists">Плейлисты</string>
+    <string name="main_favorites">Избранное</string>
+    <string name="main_settings">Настройки</string>
+
+    <string name="back">Назад</string>
+
+    <string name="search_title">Поиск</string>
+    <string name="search_placeholder">Поиск</string>
+    <string name="search_clear">Очистить</string>
+
+    <string name="settings_title">Настройки</string>
+    <string name="settings_dark_theme">Темная тема</string>
+    <string name="settings_share">Поделиться приложением</string>
+    <string name="settings_support">Написать в поддержку</string>
+    <string name="settings_agreement">Пользовательское соглашение</string>
+
+    <string name="share_message">Поделиться в мессенджере</string>
+    <string name="support_email">amagome@sfedu.ru</string>
+    <string name="support_subject">Сообщение разработчикам и разработчицам приложения Playlist Maker</string>
+    <string name="support_body">Спасибо разработчикам и разработчицам за крутое приложение!</string>
+    <string name="agreement_url">https://yandex.ru/legal/practicum_offer</string>
+    <string name="no_app_found">Не найдено подходящее приложение</string>
 </resources>
